@@ -1,0 +1,6 @@
+{
+  "name": "VigilanceEAR",
+  "description": "Real-time driver drowsiness and fatigue monitoring console using 478-point facial landmark tracking, Eye Aspect Ratio (EAR), PERCLOS, and persistent user event logs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
